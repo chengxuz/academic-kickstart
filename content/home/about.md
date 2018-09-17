@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computer Vision",
+    "Computational Neuroscience",
+    "Visual Science",
+    "Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
+  course = "PhD candidate in Psychology"
   institution = "Stanford University"
-  year = 2012
+  year = "2016 to now"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "B.E. in Electronic Engineering"
+  institution = "Tsinghua University"
+  year = "2011 to 2016"
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.S. in Mathematics (second major)"
+  institution = "Tsinghua University"
+  year = "2011 to 2016"
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a PhD student at Stanford, advised by [Daniel Yamins](http://web.stanford.edu/~yamins/). 
+I am interested in both understanding brains and developing more effective AI models.
