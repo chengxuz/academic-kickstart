@@ -18,7 +18,7 @@ authors = ["**Damian Mrowca**", "**Chengxu Zhuang**", "**Elias Wang**", "Nick Ha
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "NIPS"
+publication = "NeurIPS 2018"
 publication_short = ""
 
 # Abstract and optional shortened version.

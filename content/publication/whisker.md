@@ -18,7 +18,7 @@ authors = ["Chengxu Zhuang", "Jonas Kubilius", "Mitra Hartmann", "Daniel Yamins"
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "NIPS"
+publication = "NIPS 2017, **Oral presentation**"
 publication_short = ""
 
 # Abstract and optional shortened version.
