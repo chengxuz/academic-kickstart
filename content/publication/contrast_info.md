@@ -1,10 +1,10 @@
 +++
-title = "Flexible Neural Representation for Physics Prediction"
-date = 2018-05-10T21:17:06-07:00
+title = "Conditional Negative Sampling for Contrastive Learning of Visual Representations."
+date = 2021-03-19T21:17:06-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Damian Mrowca**", "**Chengxu Zhuang**", "**Elias Wang**", "Nick Haber", "Li Fei-Fei", "Joshua B. Tenenbaum", "Daniel Yamins"]
+authors = ["Mike Wu", "Milan Mosse", "Chengxu Zhuang", "Daniel Yamins", "Noah Goodman"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["**Damian Mrowca**", "**Chengxu Zhuang**", "**Elias Wang**", "Nick Ha
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "NeurIPS 2018"
+publication = "ICLR 2021"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Humans have a remarkable capacity to understand the physical dynamics of objects in their environment, flexibly capturing complex structures and interactions at multiple levels of detail. Inspired by this ability, we propose a hierarchical particlebased object representation that covers a wide variety of types of three-dimensional objects, including both arbitrary rigid geometrical shapes and deformable materials. We then describe the Hierarchical Relation Network (HRN), an end-to-end differentiable neural network based on hierarchical graph convolution, that learns to predict physical dynamics in this representation. Compared to other neural network baselines, the HRN accurately handles complex collisions and nonrigid deformations, generating plausible dynamics predictions at long time scales in novel settings, and scaling to large scene configurations. These results demonstrate an architecture with the potential to form the basis of next-generation physics predictors for use in computer vision, robotics, and quantitative cognitive science."
+abstract = "Recent methods for learning unsupervised visual representations, dubbed contrastive learning, optimize the noise-contrastive estimation (NCE) bound on mutual information between two views of an image. NCE uses randomly sampled negative examples to normalize the objective. In this paper, we show that choosing difficult negatives, or those more similar to the current instance, can yield stronger representations. To do this, we introduce a family of mutual information estimators that sample negatives conditionally -- in a 'ring' around each positive. We prove that these estimators lower-bound mutual information, with higher bias but lower variance than NCE. Experimentally, we find our approach, applied on top of existing models (IR, CMC, and MoCo) improves accuracy by 2-5% points in each case, measured by linear evaluation on four standard image datasets. Moreover, we find continued benefits when transferring features to a variety of new image distributions from the Meta-Dataset collection and to a variety of downstream tasks such as object detection, instance segmentation, and keypoint detection."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -43,9 +43,9 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1806.08047.pdf"
+url_pdf = "https://arxiv.org/pdf/2010.02037.pdf"
 url_preprint = ""
-url_code = "https://github.com/neuroailab/physics_prediction"
+url_code = "https://github.com/mhw32/conditional-nce-public"
 url_dataset = ""
 url_project = ""
 url_slides = ""

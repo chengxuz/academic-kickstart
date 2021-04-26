@@ -19,4 +19,4 @@ I am a teaching assistant for the following courses at Stanford:
 
 * PSYCH251: Experimental Methods, Autumn 2019
 * PSYCH249 / CS375: Large-Scale Neural Network Models for Neuroscience, Autumn 2018
-* PSYCH253: High-Dimensional Methods for Behavioral and Neural Data, Spring 2018, Spring 2019
+* PSYCH253: High-Dimensional Methods for Behavioral and Neural Data, Spring 2018, Spring 2019, Spring 2021
