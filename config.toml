@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://web.stanford.edu/~chengxuz/"
+baseurl = "https://chengxuz.github.io/"
 
 # Title of your site
 title = "Chengxu Zhuang"
@@ -58,15 +58,15 @@ enableGitInfo = false
 
   # Your details.
   name = "Chengxu Zhuang"
-  role = "PhD student of Psychology"
+  role = "Postdoc"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "NeuroAILab at Stanford", url = "http://neuroailab.stanford.edu/" } ]
+  organizations = [ { name = "EvLab at MIT", url = "https://evlab.mit.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "chengxuz@stanford.edu"
+  email = "chengxuz@mit.edu"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -222,7 +222,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:chengxuz@stanford.edu"
+    link = "mailto:chengxuz@mit.edu"
 
   [[params.social]]
     icon = "twitter"

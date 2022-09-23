@@ -15,8 +15,9 @@ weight = 60
 
 +++
 
-I am a teaching assistant for the following courses at Stanford:
+I was a teaching assistant for the following courses at Stanford:
 
+* PSYCH252: Statistical Methods for Behavioral and Social Sciences, Winter 2021
 * PSYCH251: Experimental Methods, Autumn 2019
 * PSYCH249 / CS375: Large-Scale Neural Network Models for Neuroscience, Autumn 2018
 * PSYCH253: High-Dimensional Methods for Behavioral and Neural Data, Spring 2018, Spring 2019, Spring 2021

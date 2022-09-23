@@ -10,17 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Natural Language Processing",
+    "Language Acquisition",
     "Computer Vision",
     "Computational Neuroscience",
-    "Visual Science",
-    "Deep Learning"
+    "Artificial Intelligence",
+    "Deep Learning",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD candidate in Psychology"
+  course = "Postdoc"
+  institution = "MIT"
+  year = "2022 to now"
+
+[[education.courses]]
+  course = "Ph.D. in Psychology"
   institution = "Stanford University"
-  year = "2016 to now"
+  year = "2016 to 2022"
 
 [[education.courses]]
   course = "B.E. in Electronic Engineering"
@@ -36,5 +43,6 @@ weight = 5
 
 # Biography
 
-I am a PhD student at Stanford, advised by [Daniel Yamins](http://web.stanford.edu/~yamins/). 
+I am an ICoN Postdoctoral Fellow at MIT, primarily working with [Ev Fedorenko](https://mcgovern.mit.edu/profile/ev-fedorenko/) and [Jacob Andreas](https://www.mit.edu/~jda/).
+Previously, I obtained my Ph.D. degree from Stanford, advised by [Daniel Yamins](http://web.stanford.edu/~yamins/).
 I am interested in both understanding brains and developing more effective AI models.
