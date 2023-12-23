@@ -1,4 +1,4 @@
 Install hugo 0.49.2 using hugo_install.sh
 "hugo server" can build the website for viewing.
 "hugo" can build the public folder to upload.
-Log into "cardinal" space through ssh then to change the WWW folder content (do not change the folder itself!).
+// (outdates) Log into "cardinal" space through ssh then to change the WWW folder content (do not change the folder itself!).
