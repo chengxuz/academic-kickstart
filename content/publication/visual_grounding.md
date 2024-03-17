@@ -1,6 +1,6 @@
 +++
 title = "Visual Grounding Helps Learn Word Meanings in Low-Data Regimes"
-date = 2023-10-25T21:17:06-07:00
+date = 2024-01-25T21:17:06-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Chengxu Zhuang", "Evelina Fedorenko", "Jacob Andreas"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "arxiv"
+publication = "To Appear in NAACL"
 publication_short = ""
 
 # Abstract and optional shortened version.
