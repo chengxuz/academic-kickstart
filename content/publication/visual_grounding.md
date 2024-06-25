@@ -18,7 +18,7 @@ authors = ["Chengxu Zhuang", "Evelina Fedorenko", "Jacob Andreas"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "To Appear in NAACL"
+publication = "NAACL 2024, **Oral presentation, Best Paper Award**"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -45,7 +45,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://arxiv.org/pdf/2310.13257"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/EvLab-MIT/LexiContrastiveGrd"
 url_dataset = ""
 url_project = ""
 url_slides = ""
